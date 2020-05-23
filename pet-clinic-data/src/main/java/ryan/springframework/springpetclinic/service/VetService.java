@@ -1,9 +1,9 @@
 package ryan.springframework.springpetclinic.service;
 
-import ryan.springframework.springpetclinic.model.Owner;
 import ryan.springframework.springpetclinic.model.Pet;
+import ryan.springframework.springpetclinic.model.Vet;
 
 import java.util.Set;
 
-public interface PetService extends CrudService<Pet, Long> {
+public interface VetService extends CrudService<Vet, Long> {
 }
