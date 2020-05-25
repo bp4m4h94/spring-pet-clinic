@@ -1,4 +1,4 @@
-package ryan.springframework.springpetclinic;
+package springpetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringPetClinicApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringPetClinicApplication.class, args);
+        SpringApplication.run(ryan.springframework.springpetclinic.SpringPetClinicApplication.class, args);
     }
 
 }
