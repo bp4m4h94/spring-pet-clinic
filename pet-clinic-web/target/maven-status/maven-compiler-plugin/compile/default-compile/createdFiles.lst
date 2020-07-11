@@ -1,0 +1,12 @@
+Bridge/remotes/impl/AdvancedRemote.class
+Bridge/devices/Device.class
+Bridge/remotes/Remote.class
+ryan/springframework/sfpetclinic/bootstrap/DataLoader.class
+Bridge/remotes/impl/BasicRemote.class
+ryan/springframework/sfpetclinic/SpringPetClinicApplication.class
+ryan/springframework/sfpetclinic/controller/OwnerController.class
+ryan/springframework/sfpetclinic/controller/VetController.class
+Bridge/demo/Demo.class
+ryan/springframework/sfpetclinic/controller/IndexController.class
+Bridge/devices/impl/Radio.class
+Bridge/devices/impl/Tv.class
